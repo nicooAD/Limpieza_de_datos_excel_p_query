@@ -26,5 +26,6 @@ Se observa que la base de datos esta mas homogenea para su respectivo analisis y
 
 - Excel
 - Power Query
+- Python
 
 
